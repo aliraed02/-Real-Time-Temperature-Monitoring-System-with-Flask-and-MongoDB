@@ -2,16 +2,6 @@
 
 This Python application is a real-time temperature monitoring system built using the Flask web framework, Flask-SocketIO for real-time communication, and MongoDB for data storage. The system allows you to retrieve and display temperature data in real-time.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Sample Data](#sample-data)
-- [License](#license)
 
 ## Overview
 
